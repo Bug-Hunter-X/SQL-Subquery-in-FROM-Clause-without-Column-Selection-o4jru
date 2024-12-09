@@ -1,0 +1,1 @@
+This repository demonstrates a common SQL error: using a subquery in the FROM clause without selecting any columns.  The bug.sql file contains the erroneous query.  The bugSolution.sql file provides the corrected query.
